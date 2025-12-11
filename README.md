@@ -5,11 +5,12 @@ Modern Workplace Engineer | Endpoint Management | Cloud Administrator | Security
 
 ## Mein Weg in die Cloud – strukturiert, intensiv, praxisorientiert
 
-Ich komme ursprünglich aus dem Tech-Bereich (Ausbildung als Automatisierungs- & Computertechniker) und habe über 15 Jahre selbstständig im Musik-Studiobereich und digitalen Umfeld gearbeitet — Audio, Visualisierung, Webprojekte, Hosting, Linux/Server-Basis, Shopify-Setups, Troubleshooting und Kundensysteme.
+Ich komme ursprünglich aus dem TechBereich (Ausbildung als Automatisierungs- & Computertechniker) und habe über 15 Jahre selbstständig im Musik- und Digitalumfeld gearbeitet: Studio-Workflows, Webprojekte, Hosting, Linux-Basis, Shopify-Setups, Troubleshooting.
 
-2026 habe ich beschlossen, meine Kenntnisse zu professionalisieren und mich gezielt zu spezialisieren auf
-Ich baue mir aktuell Schritt für Schritt eine professionelle Laufbahn im Bereich **Cloud Administration, Modern Endpoint Management und IT-Security** auf.  
-Mein Ziel: vom klassischen Windows-Client-Ökosystem hinein in **Azure, AWS und moderne Zero-Trust-Architekturen**.
+2026 habe ich beschlossen, diesen technischen Hintergrund gezielt zu professionalisieren und mich vollständig auf **Cloud Administration, Endpoint Management und Security Engineering** zu fokussieren.
+
+Mein langfristiges Ziel: vom klassischen Windows-Client-Bereich in moderne **Azure-, AWS- und Zero-Trust-Architekturen** wachsen.
+
 
 ---
 
@@ -23,46 +24,44 @@ Ich spezialisiere mich auf Technologien rund um:
 - **Zero Trust & Security Hardening**
 - **Automatisierung & Scripting (PowerShell – später Terraform & Python)**
 
-Dieses Repository ist mein „Learning Backlog“ + „Praxis-Lab“.
-Meine GitHub-Repos spiegeln mein echtes Lern- und Arbeitsumfeld wider – wie es in modernen Firmen heute gelebt wird.
-Damit dokumentiere ich transparent meinen Weg — vom Grundlagenwissen bis zu echten Projekten, Automatisierungen und Deployments.
+Dieses Repository ist mein „Learning Backlog“ kombiniert mit einem **praxisorientierten Lab**, das reale Unternehmens-Workflows abbildet.
+
 
 ---
 
 ## Was du hier findest  
-Dieses Repo zeigt *nicht nur Theorie*, sondern **komplett dokumentierte Praxis**:
+Dieses Repo zeigt **komplett dokumentierte Praxis**, keine reinen Notizen:
 
-### 🔹 Modern Endpoint Management (Intune / Autopilot)
+### 🚀 Modern Endpoint Management (Intune / Autopilot)
 - vollständige Intune-Profile  
 - Settings Catalog Konfigurationen  
 - Security Baselines vs. Endpoint Security  
 - Autopilot-Setups & Hardware Hash Handling  
 - Troubleshooting (Logs, ESP-Fails, Detection Rules)
 
-### 🔹 Azure Cloud Administration
+### ☁️ Azure Cloud Administration
 - Identity (Entra ID), Groups, RBAC  
 - Conditional Access & Zero Trust  
 - Azure AD Join / Hybrid / Cloud-only  
 - Security Hardening & Monitoring  
 - später: Azure Compute, Storage, Networking Labs
 
-### 🔹 AWS Grundlagen & IAM
+### 🔐 AWS Grundlagen & IAM
 - Identity Management  
 - Role-based Access  
 - Security Best Practices  
 - Cross-Cloud-Identity-Vergleiche (Azure ↔ AWS)
 
-### 🔹 Security & Hardening
+### 🛡️ Security & Hardening
 - Defender, Firewall, ASR-Rules  
 - BitLocker, TPM, Secure Boot  
 - Compliance & Device Health  
 - Angriffsvektoren verstehen & vermeiden
 
-### 🔹 Scripting & Automatisierung (building soon)
-- PowerShell Intune Automation  
-- PowerShell Reporting  
-- Terraform Labs (Azure)  
-- Python für Security & Cloud Tools
+### ⚙️ Scripting & Automatisierung (building soon)
+- PowerShell (Intune + Autopilot + Reporting)  
+- Erste Terraform-Labs (Azure)  
+- Python für Cloud & Security Workflows (Planung)
 
 ---
 
@@ -75,42 +74,42 @@ Azure · Entra ID · AWS IAM · Conditional Access · Zero Trust
 Intune · Autopilot · Windows 365 · WUfB · Defender · ASR
 
 **Security:**  
-SOC Thinking · Hardening · Monitoring · Device Security · MFA · Passwordless
+Hardening · Monitoring · SOC-orientiertes Denken · MFA · Passwordless
 
-**Scripting / Automation:**  
-PowerShell · JSON · YAML · Terraform (coming next) · Python (coming next)
+**Automation:**  
+PowerShell · JSON · YAML · Terraform (soon) · Python (soon)
 
-**Tools & Methoden:**  
-GitHub · Markdown Documentation · CI Thinking · Troubleshooting Frameworks
+**Tools:**  
+GitHub · Markdown · CI-Denken · Troubleshooting Frameworks
 
 ---
 
 ## Zertifikate (laufend & geplant)
 
-### Aktuelle Zertifikatstrecke
-- **MD-102: Endpoint Administrator** *(in Arbeit)*  
+### Aktuelle Zertifikatstrecke  
+- **MD-102: Endpoint Administrator** *(aktiv)*  
 - SC-900: Security, Compliance & Identity Fundamentals *(geplant)*  
-- AZ-900: Azure Fundamentals *(geplant)*
+- AZ-900: Azure Fundamentals *(geplant)*  
 
-### Zukunftsplan
+### Zukunftspläne  
 - AZ-104: Azure Administrator  
 - AZ-500: Azure Security Engineer  
 - MS-102: Microsoft 365 Administrator  
-- AWS Cloud Practitioner *(optional)*  
-- CompTIA Network+ & Security+ *(optional)*
+- AWS Cloud Practitioner  
+- CompTIA Network+ & Security+ 
   
 ---
 
 ## Warum dieses Repo existiert
 Weil ich zeigen möchte:
 
-- wie ich Probleme **analysiere**  
-- wie ich Systeme **verstehe**  
-- wie ich Deployments **baue**  
-- wie ich Fehler **troubleshoote**  
-- wie ich mich in Cloud & Security **weiterentwickle**
+- wie ich **Probleme analysiere**  
+- wie ich **Systeme strukturiert verstehe**  
+- wie ich **Deployments plane & baue**  
+- wie ich **Fehler finde & behebe**  
+- wie ich mich **konsequent in Cloud & Security weiterentwickle**
 
-Dieses Repository wird kontinuierlich erweitert — mit echten Use Cases, Screenshots, Logs, Lösungswegen und Step-by-Step-Anleitungen.
+Jede Datei hier spiegelt echte Arbeit wider — Screenshots, Logs, Analysen, Lösungen.
 
 ---
 
@@ -118,13 +117,14 @@ Dieses Repository wird kontinuierlich erweitert — mit echten Use Cases, Screen
 
 | Thema | Status |
 |------|--------|
-| Modern Deployment / Autopilot | ✔️ abgeschlossen |
+| Autopilot & Modern Deployment | ✔️ abgeschlossen |
 | Intune Profile (Settings Catalog / Security / Compliance) | ✔️ abgeschlossen |
 | Conditional Access & Zero Trust | ✔️ abgeschlossen |
-| WUfB & Servicing | ✔️ abgeschlossen |
-| Troubleshooting-Framework | ✔️ abgeschlossen |
+| WUfB / Servicing | ✔️ abgeschlossen |
+| Troubleshooting Framework | ✔️ abgeschlossen |
 | Praxisprojekte (GitHub) | 🟡 aktiv |
 | Prüfungsvorbereitung MD-102 | 🔜 startet bald |
+
 
 ---
 
@@ -132,15 +132,16 @@ Dieses Repository wird kontinuierlich erweitert — mit echten Use Cases, Screen
 
 Ich komme ursprünglich aus der Kreativbranche und habe:
 
-- über 15 Jahre Erfahrung als Selbstständiger  
-- Web-Projekte, Shops & digitale Systeme betreut  
-- technische Verantwortungen übernommen  
-- komplexe Workflows aufgebaut  
-- viel Team- & Projektarbeit gemacht
+- 15+ Jahre Selbstständigkeit  
+- Sound Engineering & Studio-Technik  
+- Visual Marketing (Konzeption, Video Treatments, Umsetzung)  
+- Verantwortung für Webprojekte, Shops & digitale Systeme  
+- Hosting, Linux, Fehleranalyse, Hardwarebereitstellung  
+- Prozesse aufgebaut, geleitet & optimiert  
+- strukturierte Team- und Projektarbeit
 
-Jetzt verlagere ich meine gesamte Energie in die IT — strukturiert, fokussiert und langfristig.
-
-Ich bringe **Ausdauer, Disziplin, Selbstorganisation und echte Leidenschaft** mit.
+Jetzt verlagere ich meine gesamte Energie in die IT — strukturiert, fokussiert und langfristig.  
+Ich bringe **Tiefe, Ausdauer, Disziplin, Selbstorganisation und echtes Interesse an Technologie & Security** mit.
 
 ---
 
@@ -151,13 +152,13 @@ Ich bringe **Ausdauer, Disziplin, Selbstorganisation und echte Leidenschaft** mi
 
 ## Warum dieses Profil existiert
 
-Ich möchte:
+Um meinen Weg sichtbar zu machen — authentisch und professionell:
 
-- meine Lernreise transparent dokumentieren  
-- mein wachsendes Skillset beweisen  
-- echten Praxisbezug zeigen  
-- meinen IT-Einstieg vorbereiten  
-- Recruitern ein vollständiges Bild geben  
+- Lernstand dokumentieren  
+- Skills belegen  
+- Praxis zeigen  
+- Einstieg vorbereiten  
+- Arbeitgebern Klarheit geben  
 
 Wenn du bis hier gelesen hast: Danke.  
 
