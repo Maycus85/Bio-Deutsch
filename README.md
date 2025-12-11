@@ -1,5 +1,5 @@
 # Hey, ich bin Markus!
-Modern Workplace Engineer  | Cloud Administrator | Endpoint Security Specialist
+Modern Workplace Engineer | Endpoint Management | Cloud Administrator | Security Specialist
 
 ---
 
