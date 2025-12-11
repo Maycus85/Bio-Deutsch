@@ -1,74 +1,91 @@
-# 👋 Hi, ich bin Markus — Future IT Admin | Endpoint Management | Modern Workplace | Cloud
-
-Ich baue gerade meine zweite Karriere in der IT auf — mit Fokus auf **Modern Endpoint Management, Intune, Azure Entra ID, Windows Client, Security und Automation**.
-
-Nach über 15 Jahren als selbstständiger Musiker & Unternehmer gehe ich jetzt den Weg in die **Cloud & IT-Security**.  
-Mein Ziel: **Modern Workplace Engineer / Intune Administrator / Endpoint Security Specialist**.
-
-Ich dokumentiere hier meine gesamte Lernreise — transparent, praxisnah und professionell.
+# Hey, ich bin Markus!
+Modern Workplace Engineer  | Cloud Administrator | Endpoint Security Specialist
 
 ---
 
-## 🚀 Fokus: Modern Endpoint Management & Cloud
+## Mein Weg in die Cloud – strukturiert, intensiv, praxisorientiert
+
+Ich komme ursprünglich aus dem Tech-Bereich (Ausbildung als Automatisierungs- & Computertechniker) und habe über 15 Jahre selbstständig im Musik-Studiobereich und digitalen Umfeld gearbeitet — Audio, Visualisierung, Webprojekte, Hosting, Linux/Server-Basis, Shopify-Setups, Troubleshooting und Kundensysteme.
+
+2026 habe ich beschlossen, meine Kenntnisse zu professionalisieren und mich gezielt zu spezialisieren auf
+Ich baue mir aktuell Schritt für Schritt eine professionelle Laufbahn im Bereich **Cloud Administration, Modern Endpoint Management und IT-Security** auf.  
+Mein Ziel: vom klassischen Windows-Client-Ökosystem hinein in **Azure, AWS und moderne Zero-Trust-Architekturen**.
+
+---
+
+## Fokus: Modern Endpoint Management & Cloud Administration & Security
 
 Ich spezialisiere mich auf Technologien rund um:
 
-- **Microsoft Intune / Endpoint Manager**  
-- **Windows Autopilot (Deployment, ESP, Troubleshooting)**  
-- **Azure Entra ID (Identity, Conditional Access, MFA)**  
-- **Windows Client Administration (MD-102 Track)**  
-- **Endpoint Security (Defender, BitLocker, ASR Rules, Compliance Policies)**  
-- **Windows Update for Business (WUfB)**  
-- **Zero Trust Konzepte**
+- **Modern Endpoint Management (Intune, Autopilot, Windows 365)**
+- **Cloud Identity & Access Management (Azure Entra ID + AWS IAM)**
+- **Cloud Administration (Azure Compute, Networking, Security, Monitoring)**
+- **Zero Trust & Security Hardening**
+- **Automatisierung & Scripting (PowerShell – später Terraform & Python)**
 
+Dieses Repository ist mein „Learning Backlog“ + „Praxis-Lab“.
 Meine GitHub-Repos spiegeln mein echtes Lern- und Arbeitsumfeld wider – wie es in modernen Firmen heute gelebt wird.
+Damit dokumentiere ich transparent meinen Weg — vom Grundlagenwissen bis zu echten Projekten, Automatisierungen und Deployments.
 
 ---
 
-## 📦 Meine wichtigsten Projekte
+## Was du hier findest  
+Dieses Repo zeigt *nicht nur Theorie*, sondern **komplett dokumentierte Praxis**:
 
-### 🔹 Modern Endpoint Management Lab (MD-102, Intune, Autopilot)
-👉 Repo: *[Link hier einfügen]*  
+### 🔹 Modern Endpoint Management (Intune / Autopilot)
+- vollständige Intune-Profile  
+- Settings Catalog Konfigurationen  
+- Security Baselines vs. Endpoint Security  
+- Autopilot-Setups & Hardware Hash Handling  
+- Troubleshooting (Logs, ESP-Fails, Detection Rules)
 
-Ein vollständiges Praxis-Repository über:
+### 🔹 Azure Cloud Administration
+- Identity (Entra ID), Groups, RBAC  
+- Conditional Access & Zero Trust  
+- Azure AD Join / Hybrid / Cloud-only  
+- Security Hardening & Monitoring  
+- später: Azure Compute, Storage, Networking Labs
 
-- Windows Autopilot (Profile, Hardware Hash, ESP, Deployment Modes)  
-- Intune: Settings Catalog, Security Baselines, Endpoint Security  
-- Compliance, Conditional Access & Zero Trust  
-- WUfB, Update-Ringe, Servicing  
-- Logs, Monitoring & Troubleshooting  
-- Real-World Szenarien & Best Practices  
+### 🔹 AWS Grundlagen & IAM
+- Identity Management  
+- Role-based Access  
+- Security Best Practices  
+- Cross-Cloud-Identity-Vergleiche (Azure ↔ AWS)
 
-Dieses Lab begleitet meine komplette Ausbildung im Bereich **Endpoint & Device Management**.
-
----
-
-## 🧠 Skills & Technologien
-
-### Microsoft 365 / Azure
-- Intune MDM & MAM  
-- Azure Entra ID (Identity, Rollen, Gruppen, Conditional Access)  
-- Windows Autopilot  
-- Defender for Endpoint (Grundlagen)  
-- Security Baselines & Zero Trust  
-- WUfB & Update-Steuerung
-
-### Windows Client
-- Windows 10/11 Administration  
+### 🔹 Security & Hardening
+- Defender, Firewall, ASR-Rules  
 - BitLocker, TPM, Secure Boot  
-- PowerShell Basics  
-- Event Viewer & Logs
+- Compliance & Device Health  
+- Angriffsvektoren verstehen & vermeiden
 
-### IT-Grundlagen
-- Networking Basics  
-- Identity & Access Management  
-- Security Fundamentals  
-- System Troubleshooting  
-- Git & GitHub Workflows
+### 🔹 Scripting & Automatisierung (building soon)
+- PowerShell Intune Automation  
+- PowerShell Reporting  
+- Terraform Labs (Azure)  
+- Python für Security & Cloud Tools
 
 ---
 
-## 🎯 Zertifikate (laufend & geplant)
+## Tech-Stack, den ich aktiv aufbaue
+
+**Cloud & Identity:**  
+Azure · Entra ID · AWS IAM · Conditional Access · Zero Trust
+
+**Endpoint Management:**  
+Intune · Autopilot · Windows 365 · WUfB · Defender · ASR
+
+**Security:**  
+SOC Thinking · Hardening · Monitoring · Device Security · MFA · Passwordless
+
+**Scripting / Automation:**  
+PowerShell · JSON · YAML · Terraform (coming next) · Python (coming next)
+
+**Tools & Methoden:**  
+GitHub · Markdown Documentation · CI Thinking · Troubleshooting Frameworks
+
+---
+
+## Zertifikate (laufend & geplant)
 
 ### Aktuelle Zertifikatstrecke
 - **MD-102: Endpoint Administrator** *(in Arbeit)*  
@@ -81,12 +98,23 @@ Dieses Lab begleitet meine komplette Ausbildung im Bereich **Endpoint & Device M
 - MS-102: Microsoft 365 Administrator  
 - AWS Cloud Practitioner *(optional)*  
 - CompTIA Network+ & Security+ *(optional)*
+  
+---
 
-Ich dokumentiere meinen Fortschritt sichtbar und kontinuierlich.
+## Warum dieses Repo existiert
+Weil ich zeigen möchte:
+
+- wie ich Probleme **analysiere**  
+- wie ich Systeme **verstehe**  
+- wie ich Deployments **baue**  
+- wie ich Fehler **troubleshoote**  
+- wie ich mich in Cloud & Security **weiterentwickle**
+
+Dieses Repository wird kontinuierlich erweitert — mit echten Use Cases, Screenshots, Logs, Lösungswegen und Step-by-Step-Anleitungen.
 
 ---
 
-## 📈 Lernfortschritt
+## Lernfortschritt
 
 | Thema | Status |
 |------|--------|
@@ -100,7 +128,7 @@ Ich dokumentiere meinen Fortschritt sichtbar und kontinuierlich.
 
 ---
 
-## 💬 Über mich
+## Über mich
 
 Ich komme ursprünglich aus der Kreativbranche und habe:
 
@@ -116,14 +144,12 @@ Ich bringe **Ausdauer, Disziplin, Selbstorganisation und echte Leidenschaft** mi
 
 ---
 
-## 🔗 Kontakt & Profile
+## Kontakt & Profile
 
-- LinkedIn: *Link hier einfügen*  
-- GitHub: *(sichtbar auf deinem Profil)*  
-
+- LinkedIn: *[Klick Mich](https://www.linkedin.com/in/markus-lange-02306636/)*  
 ---
 
-## ⭐ Warum dieses Profil existiert
+## Warum dieses Profil existiert
 
 Ich möchte:
 
@@ -134,4 +160,4 @@ Ich möchte:
 - Recruitern ein vollständiges Bild geben  
 
 Wenn du bis hier gelesen hast: Danke.  
-Ich freue mich auf die nächsten Schritte in der IT — das hier ist erst der Anfang.
+
