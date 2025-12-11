@@ -128,7 +128,7 @@ Jede Datei hier spiegelt echte Arbeit wider — Screenshots, Logs, Analysen, Lö
 
 ---
 
-## Über mich
+## ⭐ Über mich
 
 Ich komme ursprünglich aus der Kreativbranche und habe:
 
@@ -147,7 +147,9 @@ Ich bringe **Tiefe, Ausdauer, Disziplin, Selbstorganisation und echtes Interesse
 
 ## Kontakt & Profile
 
-- LinkedIn: *[Klick Mich](https://www.linkedin.com/in/markus-lange-02306636/)*  
+📧 Email: **markusobs123@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/markus-lange-02306636/
+
 ---
 
 ## Warum dieses Profil existiert
